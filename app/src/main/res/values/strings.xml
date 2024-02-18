@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="a_quiz_competition_is_not_just_about_knowledge_it_s_about_nthe_thirst_for_knowledge">A quiz competition is not just about knowledge; it’s about\nthe thirst for knowledge.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gk_quiz">GK Quiz</string>
+</resources>
